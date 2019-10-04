@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cdnurl</key>
+	<string>http://cmdme.s3-website-us-west-2.amazonaws.com</string>
+	<key>plisturl</key>
+	<string>http://ec2-54-85-110-170.compute-1.amazonaws.com:1338</string>
+	<key>apiurl</key>
+	<string>http://ec2-54-85-110-170.compute-1.amazonaws.com:1338</string>
+	<key>apikey</key>
+	<string>cmd_internal_key</string>
+</dict>
+</plist>
